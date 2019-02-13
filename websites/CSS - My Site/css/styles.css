@@ -4,18 +4,25 @@ body {
   text-align: center;
 }
 
+a{
+  color: #11999E;
+}
 h1 {
+  color: #66BFBF;
   font-family: 'Sacramento', cursive;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
 }
 
 h2 {
+  color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
+  font-weight: normal;
 }
 
 h3 {
+  color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -30,8 +37,31 @@ h3 {
   padding-top: 10px;
 }
 
+.dp{
+  width: 12%;
+}
+
 .middle-container {
   background-color: #edfffa;
+}
+
+.skill1-image{
+  width: 25%;
+  float: left;
+  margin-right: 1.875rem;
+}
+
+.skill2-image{
+  width: 25%;
+  float:right;
+  margin-left: 1.875rem;
+}
+
+.skill-row{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2;
 }
 
 .top-cloud {
