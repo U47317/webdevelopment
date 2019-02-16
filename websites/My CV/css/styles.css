@@ -1,0 +1,144 @@
+body {
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding: 1.25rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+hr{
+  border-bottom: none;
+  border-style: dotted;
+  border-width: 5px;
+  color: #EAF6F6;
+  margin: 100px auto;
+  width: 4%;
+  height: 0;
+}
+
+p{
+  line-height: 2;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  position: absolute;
+  left: 250px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  height: 130px;
+  line-height: 50px;
+}
+
+.btn{
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Montserrat', sans-serif;;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.contactme-description{
+  width: 40%;
+  margin: 30px auto 60px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: .75rem;
+  padding: 20px 0;
+}
+
+.dp{
+  width: 12%;
+  border-radius: 80%;
+}
+
+.intro{
+  width: 50%;
+  margin: auto;
+}
+
+.middle-container {
+  background-color: white;
+  padding-bottom: 50px;
+  margin: 100px 0;
+}
+
+.skill1-image{
+  width: 25%;
+  float: left;
+  margin-right: 1.875rem;
+}
+
+.skill2-image{
+  width: 25%;
+  float:right;
+  margin-left: 1.875rem;
+}
+
+.skill-row{
+  width: 50%;
+  text-align: justify;
+  margin: 100px auto 100px auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
